@@ -1,0 +1,3 @@
+/Users/orkunacar/CLionProjects/mram_interface/cmake-build-debug/CMakeFiles/mram_interface.dir
+/Users/orkunacar/CLionProjects/mram_interface/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/orkunacar/CLionProjects/mram_interface/cmake-build-debug/CMakeFiles/rebuild_cache.dir
